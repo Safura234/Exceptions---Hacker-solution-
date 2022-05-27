@@ -1,0 +1,16 @@
+C:\Users\Spectre\OneDrive\Bureau\Hacker solutions\Day 16 exceptions\Day 16 exceptions\bin\Debug\net5.0\Day 16 exceptions.exe
+C:\Users\Spectre\OneDrive\Bureau\Hacker solutions\Day 16 exceptions\Day 16 exceptions\bin\Debug\net5.0\Day 16 exceptions.deps.json
+C:\Users\Spectre\OneDrive\Bureau\Hacker solutions\Day 16 exceptions\Day 16 exceptions\bin\Debug\net5.0\Day 16 exceptions.runtimeconfig.json
+C:\Users\Spectre\OneDrive\Bureau\Hacker solutions\Day 16 exceptions\Day 16 exceptions\bin\Debug\net5.0\Day 16 exceptions.runtimeconfig.dev.json
+C:\Users\Spectre\OneDrive\Bureau\Hacker solutions\Day 16 exceptions\Day 16 exceptions\bin\Debug\net5.0\Day 16 exceptions.dll
+C:\Users\Spectre\OneDrive\Bureau\Hacker solutions\Day 16 exceptions\Day 16 exceptions\bin\Debug\net5.0\Day 16 exceptions.pdb
+C:\Users\Spectre\OneDrive\Bureau\Hacker solutions\Day 16 exceptions\Day 16 exceptions\obj\Debug\net5.0\Day 16 exceptions.csproj.AssemblyReference.cache
+C:\Users\Spectre\OneDrive\Bureau\Hacker solutions\Day 16 exceptions\Day 16 exceptions\obj\Debug\net5.0\Day 16 exceptions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Spectre\OneDrive\Bureau\Hacker solutions\Day 16 exceptions\Day 16 exceptions\obj\Debug\net5.0\Day 16 exceptions.AssemblyInfoInputs.cache
+C:\Users\Spectre\OneDrive\Bureau\Hacker solutions\Day 16 exceptions\Day 16 exceptions\obj\Debug\net5.0\Day 16 exceptions.AssemblyInfo.cs
+C:\Users\Spectre\OneDrive\Bureau\Hacker solutions\Day 16 exceptions\Day 16 exceptions\obj\Debug\net5.0\Day 16 exceptions.csproj.CoreCompileInputs.cache
+C:\Users\Spectre\OneDrive\Bureau\Hacker solutions\Day 16 exceptions\Day 16 exceptions\obj\Debug\net5.0\Day 16 exceptions.dll
+C:\Users\Spectre\OneDrive\Bureau\Hacker solutions\Day 16 exceptions\Day 16 exceptions\obj\Debug\net5.0\refint\Day 16 exceptions.dll
+C:\Users\Spectre\OneDrive\Bureau\Hacker solutions\Day 16 exceptions\Day 16 exceptions\obj\Debug\net5.0\Day 16 exceptions.pdb
+C:\Users\Spectre\OneDrive\Bureau\Hacker solutions\Day 16 exceptions\Day 16 exceptions\obj\Debug\net5.0\Day 16 exceptions.genruntimeconfig.cache
+C:\Users\Spectre\OneDrive\Bureau\Hacker solutions\Day 16 exceptions\Day 16 exceptions\obj\Debug\net5.0\ref\Day 16 exceptions.dll
